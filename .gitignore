@@ -1,0 +1,13 @@
+﻿# Mediul virtual Python
+.venv/
+env/
+venv/
+
+# Cache-uri Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Fișiere de log și cache Transformers
+.cache/
+huggingface/
