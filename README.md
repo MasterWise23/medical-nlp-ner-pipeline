@@ -1,6 +1,6 @@
 # Medical NER Pipeline & FastAPI Service
 
-A professional-grade Medical Named Entity Recognition (NER) pipeline built in Python, leveraging state-of-the-art Hugging Face Transformer models and exposing a high-performance web service via FastAPI.
+A Medical Named Entity Recognition (NER) pipeline built in Python, leveraging state-of-the-art Hugging Face Transformer models and exposing a high-performance web service via FastAPI.
 
 ## Architecture & Technologies
 - **Language:** Python 3.10+
