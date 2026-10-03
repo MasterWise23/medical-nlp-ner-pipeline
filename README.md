@@ -50,3 +50,7 @@ The FastAPI interface ready for testing POST requests with clinical reports:
 ### 2. Request & cURL Generation
 Visualization of request details and the cURL command generated directly from the interactive documentation:
 ![API Response and cURL](assets/api-response.png)
+
+### 3. Respone
+Visualization of the JSON response body containing extracted medical entities, categories, and confidence scores:
+![API Response](assets/api-response-complete.png)
