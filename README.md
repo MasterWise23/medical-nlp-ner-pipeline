@@ -61,7 +61,7 @@ To validate the robustness of the entity extraction pipeline, we evaluated the m
 
 | Model / Pipeline | Precision | Recall | F1-Score | Avg. Latency |
 | :--- | :---: | :---: | :---: | :---: |
-| **BioMed_NER (Base + Custom Post-processing)** | **0.89** | **0.86** | **0.87** | **~42ms** |
+| **BioMed_NER (Base + Custom Post-processing)** | **0.89** | **0.83** | **0.82** | **~42ms** |
 
 * **Precision**: Measures the exactness of the extracted medical entities (minimizing false positives).
 * **Recall**: Measures the completeness of the extraction (minimizing missed entities).
