@@ -40,3 +40,13 @@ A Medical Named Entity Recognition (NER) pipeline built in Python, leveraging st
 
 5. **Testing:**
    Access the interactive Swagger UI documentation at: **http://127.0.0.1:8000/docs**
+
+   ## Screenshots & Demo
+
+### 1. Interactive Swagger UI
+Interfața API-ului FastAPI pregătită pentru testarea cererilor POST cu rapoarte clinice:
+![Swagger UI Interface](assets/swagger-ui.png)
+
+### 2. Request & cURL Generation
+Vizualizarea detaliilor cererii și a comenzii cURL generate direct din documentația interactivă:
+![API Response and cURL](assets/api-response.png)
