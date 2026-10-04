@@ -66,3 +66,13 @@ To validate the robustness of the entity extraction pipeline, we evaluated the m
 * **Precision**: Measures the exactness of the extracted medical entities (minimizing false positives).
 * **Recall**: Measures the completeness of the extraction (minimizing missed entities).
 * **F1-Score**: The harmonic mean balancing precision and recall.
+
+## Author
+
+**Ștefania-Alexandra Tanasă**
+Robotics Engineering (English profile) — UTCN Cluj-Napoca
+[GitHub](https://github.com/MasterWise23)
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
